@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Harman's Digital Key<br>👯 I’m looking to collaborate on anything that excites me so lets connect<br>🤝 I’m looking for help with Spring Boot, Spring Data, Microservices, Kafka, Hibernate, Postgres, MongoDB, GIT.<br>🌱 I’m currently learning
+🔭 I'm currently working on Harman's Digital Key<br>👯 I’m looking to collaborate on anything that excites me so lets connect<br>🌱 I’m currently learning
 
 
 ## 🌐 Socials:
